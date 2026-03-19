@@ -22,3 +22,10 @@ The system was evaluated using the **OpenSky Network** dataset.
    ```bash
    git clone [https://github.com/V4l7r1x/AirDefend-X.git](https://github.com/V4l7r1x/AirDefend-X.git)
    cd AirDefend-X
+
+2. **Data Acquisition:**
+
+The project includes a sample dataset for immediate testing.
+* **Dataset Location**: `data/opensky.csv`
+* **Source**: [OpenSky Network](https://opensky-network.org/)
+* **Note**: If you wish to use a larger dataset, replace `opensky.csv` in the `/data` folder and ensure the column headers match.
