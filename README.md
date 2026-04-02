@@ -18,11 +18,10 @@
 
 ## 🛠️ Installation & Usage
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/V4l7r1x/AirDefend-X.git](https://github.com/V4l7r1x/AirDefend-X.git)
-    cd AirDefend-X
-    ```
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/V4l7r1x/AirDefend-X.git
+   cd AirDefend-X
 
 2.  **Create a Virtual Environment:**
     ```bash
